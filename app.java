@@ -1,5 +1,6 @@
 <h1>Welcome to git hub class</h1>
-  <b1>Hi</b1>
+  <b1>Hi</b<
+  Updated upstream
   
 /dev 2
 public class AddNumbers {
@@ -11,3 +12,16 @@ public class AddNumbers {
     }
 }
   
+//dev-1 without pulling the code
+public class MethodExample {
+    // A method that prints a message
+    public static void greet() {
+        System.out.println("Greetings from a method!");
+    }
+
+    public static void main(String[] args) {
+        greet(); // Call the greet method
+    }
+}
+
+
